@@ -1,5 +1,8 @@
 # Tidal2Strawberry, a long needed script
 
+![2023-04-02-093545](https://user-images.githubusercontent.com/55334727/229339313-177159c2-ca1c-4705-a043-791a9b4356d9.png)
+
+
 #### Note, this script was written by @WillyJL, a good friend of mine. All credits to him. Sponsorship links on this repository will be his.
 
 -----
