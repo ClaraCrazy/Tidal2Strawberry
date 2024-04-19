@@ -23,3 +23,6 @@ This script allows you to convert either a single, or all Tidal playlists of any
 -----
 
 #### Note, this script was written by @WillyJL, a good friend of mine. All credits to him. Sponsorship links on this repository will be his.
+
+[![Paypal](https://img.shields.io/badge/-WillyJL1-333333?style=for-the-badge&logo=paypal&logoColor=white&labelColor=00457C)](https://paypal.me/willyjl1)
+[![Ko-Fi]( https://img.shields.io/badge/-WillyJL-333333?style=for-the-badge&logo=kofi&logoColor=white&labelColor=FF5E5B   )](https://ko-fi.com/willyjl)
